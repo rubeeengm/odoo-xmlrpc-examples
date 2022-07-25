@@ -1,0 +1,7 @@
+# entornos de desarrollo
+*-workspace
+.vscode/
+.idea/
+
+# archivos de caché generados por python
+__pycache__/
